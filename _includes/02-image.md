@@ -1,1 +1,2 @@
-alt-text.https://drive.google.com/file/d/19alVLE5221Dx74kciwsUxj2w2Ls50wSU/view?usp=drivesdk
+
+[Image of Yaktocat](https://octodex.github.com/images/yaktocat.png).
